@@ -1,0 +1,7 @@
+C:\workSpace\c#\UnityDllPlugin\UnityDllPlugin\obj\Release\UnityDllPlugin.csprojResolveAssemblyReference.cache
+C:\workSpace\c#\UnityDllPlugin\UnityDllPlugin\bin\Release\UnityDllPlugin.dll
+C:\workSpace\c#\UnityDllPlugin\UnityDllPlugin\bin\Release\UnityDllPlugin.pdb
+C:\workSpace\c#\UnityDllPlugin\UnityDllPlugin\bin\Release\UnityEngine.dll
+C:\workSpace\c#\UnityDllPlugin\UnityDllPlugin\bin\Release\UnityEngine.xml
+C:\workSpace\c#\UnityDllPlugin\UnityDllPlugin\obj\Release\UnityDllPlugin.dll
+C:\workSpace\c#\UnityDllPlugin\UnityDllPlugin\obj\Release\UnityDllPlugin.pdb
